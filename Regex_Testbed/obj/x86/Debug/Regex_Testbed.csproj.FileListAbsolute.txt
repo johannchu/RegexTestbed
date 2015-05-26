@@ -1,0 +1,34 @@
+c:\users\johann\documents\visual studio 2010\Projects\Regex_Testbed\Regex_Testbed\bin\Debug\Regex_Testbed.exe
+c:\users\johann\documents\visual studio 2010\Projects\Regex_Testbed\Regex_Testbed\bin\Debug\Regex_Testbed.pdb
+c:\users\johann\documents\visual studio 2010\Projects\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.Form1.resources
+c:\users\johann\documents\visual studio 2010\Projects\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.Properties.Resources.resources
+c:\users\johann\documents\visual studio 2010\Projects\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.exe
+c:\users\johann\documents\visual studio 2010\Projects\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.pdb
+C:\Users\Johann\Documents\Visual Studio 2010\Projects\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.csproj.GenerateResource.Cache
+C:\Users\Johann\Dropbox\C#_Program\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.exe
+C:\Users\Johann\Dropbox\C#_Program\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.pdb
+C:\Users\Johann\Dropbox\C#_Program\Regex_Testbed\Regex_Testbed\bin\Debug\Regex_Testbed.exe
+C:\Users\Johann\Dropbox\C#_Program\Regex_Testbed\Regex_Testbed\bin\Debug\Regex_Testbed.pdb
+C:\Users\Johann\Dropbox\C#_Program\Regex_Testbed\Regex_Testbed\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Johann\Dropbox\C#_Program\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.Form1.resources
+C:\Users\Johann\Dropbox\C#_Program\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.Properties.Resources.resources
+C:\Users\Johann\Dropbox\C#_Program\Regex_Testbed\Regex_Testbed\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Johann\Dropbox\C#_Program\Regex_Testbed\Regex_Testbed\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Johann\Documents\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.exe
+C:\Users\Johann\Documents\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.pdb
+C:\Users\Johann\Documents\Regex_Testbed\Regex_Testbed\bin\Debug\Regex_Testbed.exe
+C:\Users\Johann\Documents\Regex_Testbed\Regex_Testbed\bin\Debug\Regex_Testbed.pdb
+C:\Users\Johann\Documents\Regex_Testbed\Regex_Testbed\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Johann\Documents\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.Form1.resources
+C:\Users\Johann\Documents\Regex_Testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.Properties.Resources.resources
+C:\Users\Johann\Documents\Regex_Testbed\Regex_Testbed\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Johann\Documents\Regex_Testbed\Regex_Testbed\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Johann\Documents\Regex_Testbed\regex_testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.exe
+C:\Users\Johann\Documents\Regex_Testbed\regex_testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.pdb
+C:\Users\Johann\Documents\Regex_Testbed\regex_testbed\Regex_Testbed\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Johann\Documents\Regex_Testbed\regex_testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.Form1.resources
+C:\Users\Johann\Documents\Regex_Testbed\regex_testbed\Regex_Testbed\obj\x86\Debug\Regex_Testbed.Properties.Resources.resources
+C:\Users\Johann\Documents\Regex_Testbed\regex_testbed\Regex_Testbed\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Johann\Documents\Regex_Testbed\regex_testbed\Regex_Testbed\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Johann\Documents\Regex_Testbed\regex_testbed\Regex_Testbed\bin\Debug\Regex_Testbed.exe
+C:\Users\Johann\Documents\Regex_Testbed\regex_testbed\Regex_Testbed\bin\Debug\Regex_Testbed.pdb
